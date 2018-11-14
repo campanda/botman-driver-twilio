@@ -1,5 +1,5 @@
 {
-    "name": "botman/driver-twilio",
+    "name": "campanda/botman-driver-twilio",
     "license": "MIT",
     "description": "Twilio driver for BotMan",
     "keywords": [
@@ -12,11 +12,14 @@
         {
             "name": "Marcel Pociot",
             "email": "m.pociot@gmail.com"
+        },
+        {
+            "name": "Helmut Hoffer von Ankershoffen",
+            "email": "helmut.hoffer.von.ankershoffen@campanda.com"
         }
     ],
     "require": {
         "php": ">=7.0",
-        "botman/botman": "~2.0",
         "twilio/sdk": "^5.15"
     },
     "require-dev": {
